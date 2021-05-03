@@ -54,7 +54,7 @@ A computer science student and software engineer specializing in web APIs and fu
 	<img src="https://img.shields.io/badge/AWS-FF9900?logo=Amazon%20aws&style=flat-square&labelColor=E0E0E0&logoColor=FF9900" height="23">
 	<img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&style=flat-square&labelColor=e0e0e0&logoColor=2496ED" height="23">
 	<img src="https://img.shields.io/badge/Jetbrains-2D303E?logo=jetbrains&style=flat-square&labelColor=E0E0E0&logoColor=2D303E" height="23">
-	<br>
+	<br><br>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual%20studio%20code&style=flat-square&labelColor=E0E0E0&logoColor=007ACC" height="23">
 	<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android%20studio&style=flat-square&labelColor=555555&logoColor=3DDC84" height="23">
 	<img src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&style=flat-square&labelColor=555555&logoColor=FF6C37" height="23">
