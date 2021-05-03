@@ -13,7 +13,7 @@ A computer science student and software engineer specializing in web APIs and fu
 <br>
 <ul align="left">
 	<li>🏢 Currently at Justworks </li>
-	<li>👀 Kotlin, Dart and Crystal on my radar. </li>
+	<li>👀 Rust, Dart and Crystal on my radar. </li>
 	<li>👨🏾‍💻 Working on a REST API for World Chase Tag! (Contact to contribute!!!)</li>
 	<li> 🤜🏽🤛🏻 Looking to collaborate on anything full stack web, mobile or desktop. </li>
 	<li>❤️ Gaming, astronomy, aviation, martial arts, philosophy, urban spelunking, <br>camping & paintball are some of my interest/hobbies.</li>
