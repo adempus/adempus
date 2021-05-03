@@ -39,7 +39,7 @@ A computer science student and software engineer specializing in web APIs and fu
 
 <div align="center">
 	<img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&style=flat-square&logoColor=336791&labelColor=E0E0E0" height="23">
-	<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=flat-square&labelColor=E0E0E0&logoColor=4479A1" height="23">
+	<img src="https://img.shields.io/badge/MySQL-4479A1?logo=Mysql&style=flat-square&labelColor=E0E0E0&logoColor=4479A1" height="23">
 	<img src="https://img.shields.io/badge/SQLite-6BC3E2?logo=SQLite&style=flat-square&labelColor=555555&logoColor=6BC3E2" height="23">
 	<img src="https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&style=flat-square&labelColor=E0E0E0&logoColor=E10098" height="23">
 	<br>
@@ -53,7 +53,7 @@ A computer science student and software engineer specializing in web APIs and fu
 	<img src="https://img.shields.io/badge/GitHub-2D303E?logo=Github&style=flat-square&labelColor=E0E0E0&logoColor=2D303E" height="23">
 	<img src="https://img.shields.io/badge/AWS-FF9900?logo=Amazon%20aws&style=flat-square&labelColor=E0E0E0&logoColor=FF9900" height="23">
 	<img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&style=flat-square&labelColor=e0e0e0&logoColor=2496ED" height="23">
-	<img src="https://img.shields.io/badge/Jetbrains-2D303E?logo=Jetbrains&style=flat-square&labelColor=E0E0E0&logoColor=2D303E" height="23">
+	<img src="https://img.shields.io/badge/Jetbrains-2D303E?logo=jetbrains&style=flat-square&labelColor=E0E0E0&logoColor=2D303E" height="23">
 	<br>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual%20studio%20code&style=flat-square&labelColor=E0E0E0&logoColor=007ACC" height="23">
 	<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android%20studio&style=flat-square&labelColor=555555&logoColor=3DDC84" height="23">
