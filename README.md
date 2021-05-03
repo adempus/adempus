@@ -20,7 +20,7 @@ A computer science student and software engineer specializing in web APIs and fu
 	<img src="https://media.giphy.com/media/hroRTX5odHrMm5IoCF/giphy.gif" height="200"/>
 </div>
 <h2 > <img src="http://pa1.narvii.com/6304/b27d233a8d65333d56a5b0d1d044b7684dcb775e_00.gif" height="100"/>&nbsp; Languages & Frameworks &nbsp;🔤 </h2>
-<div align="center">
+<div align="left">
 	<img src="https://img.shields.io/badge/Python-3776Ab?logo=Python&style=flat-square&labelColor=E0E0E0&logoColor=3776Ab" alt="python" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=Javascript&style=flat-square&labelColor=555555&logoColor=F7DF1E" alt="Javascript" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/Java-EE1B2D?logo=Java&style=flat-square&logoColor=EE1B2D&labelColor=E0E0E0" alt="Java" height="23">&nbsp;
@@ -38,7 +38,7 @@ A computer science student and software engineer specializing in web APIs and fu
 
 <h2><img src="https://64.media.tumblr.com/13b83b0614984c68bf7ded0f046342b9/dbcae345f5bcb661-b1/s640x960/b397f4a296851b10783710aeea33ee9104676cc7.gif" height="100"/>&nbsp; Databases &nbsp;💾</h2>
 
-<div align="center">
+<div align="left">
 	<img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&style=flat-square&logoColor=336791&labelColor=E0E0E0" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/MySQL-4479A1?logo=Mysql&style=flat-square&labelColor=E0E0E0&logoColor=4479A1" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/SQLite-6BC3E2?logo=SQLite&style=flat-square&labelColor=555555&logoColor=6BC3E2" height="23">&nbsp;
@@ -49,7 +49,7 @@ A computer science student and software engineer specializing in web APIs and fu
 
 <h2><img src="https://64.media.tumblr.com/59168f41444bd6007143e1fd8697685d/tumblr_pg9n5mB6Dr1sgge6vo1_640.gif" height="100"/>&nbsp; Tools &nbsp;🧰</h2>
 
-<div align="center">
+<div align="left">
 	<img src="https://img.shields.io/badge/Git-F05032?logo=Git&style=flat-square&labelColor=E0E0E0&logoColor=F05032" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/GitHub-2D303E?logo=Github&style=flat-square&labelColor=E0E0E0&logoColor=2D303E" height="23">&nbsp;
 		<img src="https://img.shields.io/badge/Gitpod-FFAE33?logo=Gitpod&style=flat-square&labelColor=E0E0E0&logoColor=FFAE33" height="23">&nbsp;
@@ -69,9 +69,9 @@ A computer science student and software engineer specializing in web APIs and fu
 		<img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&style=flat-square&labelColor=E0E0E0&logoColor=2C8EBB" height="23">&nbsp;
 </div>
 	
-<h2><img src="https://64.media.tumblr.com/bead323fe4f57d8cdc1dea8eb3f1ca18/tumblr_pbtz7mxPDr1sgge6vo1_640.gif" height="100"/>&nbsp; Systems &nbsp;💻</h2>
+<h2><img src="https://64.media.tumblr.com/bead323fe4f57d8cdc1dea8eb3f1ca18/tumblr_pbtz7mxPDr1sgge6vo1_640.gifv" height="100"/>&nbsp; Systems &nbsp;💻</h2>
 
-<div align="center">
+<div align="left">
 	<img src="https://img.shields.io/badge/Ubuntu-E95420?logo=Ubuntu&style=flat-square&labelColor=E0E0E0&logoColor=E95420" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/Pop!__OS-48B9C7?logo=Pop%5FOS&style=flat-square&labelColor=E0E0E0&logoColor=48B9C7" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/Windows-0078D6?logo=Windows&style=flat-square&labelColor=E0E0E0&logoColor=0078D6" height="23">&nbsp;
@@ -88,7 +88,7 @@ A computer science student and software engineer specializing in web APIs and fu
 	<br/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adempus&layout=compact&theme=nord&langs_count=7&hide_border=true">
 </div>
-<h2 align="center">📬 &nbsp;Contact</h2>
+<h2 align="left">📬 &nbsp;Contact</h2>
 <div align="center">
 	<a href="https://www.linkedin.com/in/jeff-morin-88022a51"/>
 	<img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&style=flat-square&labelColor=0A66C2&logoColor=FFFFFF" alt="python" height="23"/>
