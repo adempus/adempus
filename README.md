@@ -19,7 +19,7 @@ A computer science student and software engineer specializing in web APIs and fu
 <div align="center">
 	<img src="https://media.giphy.com/media/hroRTX5odHrMm5IoCF/giphy.gif" height="200"/>
 </div>
-<h2 > <img src="http://pa1.narvii.com/6304/b27d233a8d65333d56a5b0d1d044b7684dcb775e_00.gif" height="100"/>&nbsp; Languages & Frameworks &nbsp;🔤 </h2>
+<h2 > <img src="http://pa1.narvii.com/6304/b27d233a8d65333d56a5b0d1d044b7684dcb775e_00.gif" height="95"/>&nbsp; Languages & Frameworks &nbsp;🔤 </h2>
 <div align="center">
 	<img src="https://img.shields.io/badge/Python-3776Ab?logo=Python&style=flat-square&labelColor=E0E0E0&logoColor=3776Ab" alt="python" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=Javascript&style=flat-square&labelColor=555555&logoColor=F7DF1E" alt="Javascript" height="23">&nbsp;
@@ -36,7 +36,7 @@ A computer science student and software engineer specializing in web APIs and fu
 	<img src="https://img.shields.io/badge/Arduino-00979D?logo=Arduino&style=flat-square&labelColor=E0E0E0&logoColor=00979D" height="23">&nbsp;
 </div>
 
-<h2><img src="https://64.media.tumblr.com/13b83b0614984c68bf7ded0f046342b9/dbcae345f5bcb661-b1/s640x960/b397f4a296851b10783710aeea33ee9104676cc7.gif" height="100"/>&nbsp; Databases &nbsp;💾</h2>
+<h2><img src="https://64.media.tumblr.com/13b83b0614984c68bf7ded0f046342b9/dbcae345f5bcb661-b1/s640x960/b397f4a296851b10783710aeea33ee9104676cc7.gif" height="95"/>&nbsp; Databases &nbsp;💾</h2>
 
 <div align="center">
 	<img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&style=flat-square&logoColor=336791&labelColor=E0E0E0" height="23">&nbsp;
@@ -47,7 +47,7 @@ A computer science student and software engineer specializing in web APIs and fu
 	
 </div>
 
-<h2><img src="https://64.media.tumblr.com/59168f41444bd6007143e1fd8697685d/tumblr_pg9n5mB6Dr1sgge6vo1_640.gif" height="100"/>&nbsp; Tools &nbsp;🧰</h2>
+<h2><img src="https://64.media.tumblr.com/59168f41444bd6007143e1fd8697685d/tumblr_pg9n5mB6Dr1sgge6vo1_640.gif" height="95"/>&nbsp; Tools &nbsp;🧰</h2>
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Git-F05032?logo=Git&style=flat-square&labelColor=E0E0E0&logoColor=F05032" height="23">&nbsp;
@@ -69,7 +69,7 @@ A computer science student and software engineer specializing in web APIs and fu
 		<img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&style=flat-square&labelColor=E0E0E0&logoColor=2C8EBB" height="23">&nbsp;
 </div>
 	
-<h2><img src="https://64.media.tumblr.com/bead323fe4f57d8cdc1dea8eb3f1ca18/tumblr_pbtz7mxPDr1sgge6vo1_640.gif" height="100"/>&nbsp; Systems &nbsp;💻</h2>
+<h2><img src="https://64.media.tumblr.com/bead323fe4f57d8cdc1dea8eb3f1ca18/tumblr_pbtz7mxPDr1sgge6vo1_640.gif" height="95"/>&nbsp; Systems &nbsp;💻</h2>
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Ubuntu-E95420?logo=Ubuntu&style=flat-square&labelColor=E0E0E0&logoColor=E95420" height="23">&nbsp;
