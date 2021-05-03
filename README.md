@@ -10,7 +10,7 @@ A computer science student and software engineer specializing in web APIs and fu
 	<li>🏢 Currently at Justworks </li>
 	<li>👀 Kotlin, Dart and Crystal on my radar. </li>
 	<li>👨🏾‍💻 Working on a REST API for World Chase Tag! (Contact to contribute!!!)</li>
-	<li> 🤜🏽🤛🏻 Looking to collaborate on anything full stack web, mobile or desktop. </li>
+	<li> 🤜🏽🤛 Looking to collaborate on anything full stack web, mobile or desktop. </li>
 	<li>❤️ Astronomy, gaming, aviation, martial arts, philosophy, urban spelunking, <br>camping & paintball are some of my interest/hobbies.</li>
 </ul>
 <br>
@@ -87,7 +87,7 @@ A computer science student and software engineer specializing in web APIs and fu
 	<br/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adempus&layout=compact&theme=nord&langs_count=7&hide_border=true">
 </div>
-<h2>📬 &nbsp; Contact</h2>
+<h2>📬 &nbsp;Contact</h2>
 <div align="center">
 	<a href="https://www.linkedin.com/in/jeff-morin-88022a51"/>
 	<img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&style=flat-square&labelColor=0A66C2&logoColor=FFFFFF" alt="python" height="23"/>
