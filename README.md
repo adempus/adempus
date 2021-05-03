@@ -79,7 +79,7 @@ A computer science student and software engineer specializing in web APIs and fu
 	<img src="https://img.shields.io/badge/Android-3DDC84?logo=Android&style=flat-square&labelColor=555555&logoColor=3DDC84" height="23">&nbsp;
 </div>
 
-<h2><img src="https://media1.tenor.com/images/fb640b44323f832b84561056676dc9b3/tenor.gif?itemid=7226045" height="100"/>&nbsp; Stats &nbsp;📊</h2>
+<h2 align="center">Stats &nbsp;📊</h2>
 <div align=center>
 <div align="center">
 	<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy-downsized.gif" height="200"/>
