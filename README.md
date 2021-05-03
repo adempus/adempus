@@ -7,23 +7,18 @@
 A computer science student and software engineer specializing in web APIs and full-stack app development. Also an embedded hobbyist with interests in environmental tech, IoT, and data engineering. Looking to learn and expand my skillset across various domains.
 </div>
 <br>
-<div align="center">
-	<img src="https://media.giphy.com/media/hroRTX5odHrMm5IoCF/giphy.gif" height="200"/>
-</div>
-<br>
 <ul align="left">
 	<li>🏢 Currently at Justworks </li>
-	<li>👀 Rust, Dart and Crystal on my radar. </li>
+	<li>👀 Kotlin, Dart and Crystal on my radar. </li>
 	<li>👨🏾‍💻 Working on a REST API for World Chase Tag! (Contact to contribute!!!)</li>
 	<li> 🤜🏽🤛🏻 Looking to collaborate on anything full stack web, mobile or desktop. </li>
 	<li>❤️ Gaming, astronomy, aviation, martial arts, philosophy, urban spelunking, <br>camping & paintball are some of my interest/hobbies.</li>
 </ul>
 <br>
 <div align="center">
-	<img src="http://pa1.narvii.com/6304/b27d233a8d65333d56a5b0d1d044b7684dcb775e_00.gif" height="200"/>
+	<img src="https://media.giphy.com/media/hroRTX5odHrMm5IoCF/giphy.gif" height="250"/>
 </div>
-
-<h2 >🔤 &nbsp; Languages & Frameworks </h2>
+<h2> <img src="http://pa1.narvii.com/6304/b27d233a8d65333d56a5b0d1d044b7684dcb775e_00.gif" height="75"/> &nbsp; Languages & Frameworks &nbsp;🔤 </h2>
 <div align="center">
 	<img src="https://img.shields.io/badge/Python-3776Ab?logo=Python&style=flat-square&labelColor=E0E0E0&logoColor=3776Ab" alt="python" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=Javascript&style=flat-square&labelColor=555555&logoColor=F7DF1E" alt="Javascript" height="23">&nbsp;
@@ -40,7 +35,7 @@ A computer science student and software engineer specializing in web APIs and fu
 	<img src="https://img.shields.io/badge/Arduino-00979D?logo=Arduino&style=flat-square&labelColor=E0E0E0&logoColor=00979D" height="23">&nbsp;
 </div>
 
-<h2>💾 &nbsp; Databases</h2>
+<h2><img src="https://64.media.tumblr.com/fdc3b2fc2324c04f11c9f659f12f57a5/tumblr_pe6cuiqCdD1sgge6vo1_640.gif" height="75"/> &nbsp; Databases &nbsp;💾</h2>
 
 <div align="center">
 	<img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&style=flat-square&logoColor=336791&labelColor=E0E0E0" height="23">&nbsp;
@@ -51,7 +46,7 @@ A computer science student and software engineer specializing in web APIs and fu
 	
 </div>
 
-<h2>🧰 &nbsp; Tools</h2>
+<h2><img src="https://64.media.tumblr.com/13b83b0614984c68bf7ded0f046342b9/dbcae345f5bcb661-b1/s640x960/b397f4a296851b10783710aeea33ee9104676cc7.gif" height="75"/> &nbsp; Tools&nbsp;🧰</h2>
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Git-F05032?logo=Git&style=flat-square&labelColor=E0E0E0&logoColor=F05032" height="23">&nbsp;
@@ -73,7 +68,7 @@ A computer science student and software engineer specializing in web APIs and fu
 		<img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&style=flat-square&labelColor=E0E0E0&logoColor=2C8EBB" height="23">&nbsp;
 </div>
 	
-<h2>💻 &nbsp; Systems</h2>
+<h2><img src="https://64.media.tumblr.com/175503605d3870f6748d01edd66b87eb/tumblr_pfaw01lT5r1sgge6vo1_640.gif" height="75"/> &nbsp; Systems&nbsp;💻</h2>
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Ubuntu-E95420?logo=Ubuntu&style=flat-square&labelColor=E0E0E0&logoColor=E95420" height="23">&nbsp;
@@ -83,7 +78,7 @@ A computer science student and software engineer specializing in web APIs and fu
 	<img src="https://img.shields.io/badge/Android-3DDC84?logo=Android&style=flat-square&labelColor=555555&logoColor=3DDC84" height="23">&nbsp;
 </div>
 
-<h2>📊  &nbsp; Stats</h2>
+<h2><img src="https://media1.tenor.com/images/fb640b44323f832b84561056676dc9b3/tenor.gif?itemid=7226045" height="75"/>&nbsp; Stats&nbsp;📊</h2>
 <div align=center>
 <div align="center">
 	<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy-downsized.gif" height="200"/>
@@ -92,7 +87,7 @@ A computer science student and software engineer specializing in web APIs and fu
 	<br/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adempus&layout=compact&theme=nord&langs_count=7&hide_border=true">
 </div>
-<h2>📬 &nbsp;Contact</h2>
+<h2 align="center">📬 &nbsp;Contact</h2>
 <div align="center">
 	<a href="https://www.linkedin.com/in/jeff-morin-88022a51"/>
 	<img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&style=flat-square&labelColor=0A66C2&logoColor=FFFFFF" alt="python" height="23"/>
