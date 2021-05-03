@@ -89,6 +89,9 @@ A computer science student and software engineer specializing in web APIs and fu
 </div>
 <h2>📬 &nbsp; Contact</h2>
 <div align="center">
+	<a href="https://www.linkedin.com/in/jeff-morin-88022a51"/>
+	<img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&style=flat-square&labelColor=0A66C2&logoColor=FFFFFF" alt="python" height="23"/>
+</a>
 	<a href="mailto:jmorin722@gmail.com"/>
 	<img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&style=flat-square&labelColor=EA4335&logoColor=FFFFFF" alt="python" height="23"/>
 	</a>
