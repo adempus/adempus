@@ -16,7 +16,7 @@ A computer science student and software engineer specializing in web APIs and fu
 </ul>
 <br>
 <div align="center">
-	<img src="https://media.giphy.com/media/hroRTX5odHrMm5IoCF/giphy.gif" height="250"/>
+	<img src="https://media.giphy.com/media/hroRTX5odHrMm5IoCF/giphy.gif" height="200"/>
 </div>
 <h2> <img src="http://pa1.narvii.com/6304/b27d233a8d65333d56a5b0d1d044b7684dcb775e_00.gif" height="75"/> &nbsp; Languages & Frameworks &nbsp;🔤 </h2>
 <div align="center">
