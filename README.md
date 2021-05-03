@@ -78,7 +78,7 @@ A computer science student and software engineer specializing in web APIs and fu
 	<img src="https://img.shields.io/badge/Raspberry Pi-A22846?logo=raspberry-pi&style=flat-square&labelColor=E0E0E0&logoColor=A22846" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/Android-3DDC84?logo=Android&style=flat-square&labelColor=555555&logoColor=3DDC84" height="23">&nbsp;
 </div>
-
+<br><br>
 <h2 align="center">Stats &nbsp;📊</h2>
 <div align=center>
 <div align="center">
