@@ -1,4 +1,5 @@
 
+
 <div align="center">
 <h1>👋🏽🌎 <br>I'm Jeff!</h1>
 </div>
@@ -6,17 +7,24 @@
 A computer science student and software engineer specializing in web APIs and full-stack app development. Also an embedded hobbyist with interests in environmental tech, IoT, and data engineering. Looking to learn and expand my skillset across various domains.
 </div>
 <br>
+<div align="center">
+	<img src="https://media.giphy.com/media/hroRTX5odHrMm5IoCF/giphy.gif" height="200"/>
+</div>
+<br>
 <ul align="left">
 	<li>🏢 Currently at Justworks </li>
 	<li>👀 Kotlin, Dart and Crystal on my radar. </li>
 	<li>👨🏾‍💻 Working on a REST API for World Chase Tag! (Contact to contribute!!!)</li>
 	<li> 🤜🏽🤛🏻 Looking to collaborate on anything full stack web, mobile or desktop. </li>
-	<li>❤️ Astronomy, gaming, aviation, martial arts, philosophy, urban spelunking, <br>camping & paintball are some of my interest/hobbies.</li>
+	<li>❤️ Gaming, astronomy, aviation, martial arts, philosophy, urban spelunking, <br>camping & paintball are some of my interest/hobbies.</li>
 </ul>
 <br>
-
 <div align="center">
-	<img src="https://media.giphy.com/media/hroRTX5odHrMm5IoCF/giphy.gif" height="200"/>
+<img src="https://media1.tenor.com/images/fb640b44323f832b84561056676dc9b3/tenor.gif?itemid=7226045" height="100"/>
+<img src="https://64.media.tumblr.com/13b83b0614984c68bf7ded0f046342b9/dbcae345f5bcb661-b1/s640x960/b397f4a296851b10783710aeea33ee9104676cc7.gif" height="100"/>
+	<img src="https://64.media.tumblr.com/fdc3b2fc2324c04f11c9f659f12f57a5/tumblr_pe6cuiqCdD1sgge6vo1_640.gifv" height="100"/>
+	<img src="http://pa1.narvii.com/6304/b27d233a8d65333d56a5b0d1d044b7684dcb775e_00.gif" height="100"/>
+		<img src="https://64.media.tumblr.com/175503605d3870f6748d01edd66b87eb/tumblr_pfaw01lT5r1sgge6vo1_640.gifv" height="100"/>
 </div>
 
 <h2 >🔤 &nbsp; Languages & Frameworks </h2>
