@@ -4,6 +4,7 @@
 <div align="left">
 A computer science student and software engineer specializing in web APIs and full-stack application development. Also an embedded hobbyist with interests in environmental tech, IoT, and informatics. Looking to learn expand my skillset across various domains.
 </div>
+<br>
 <ul align="left">
 	<li>🏢 Currently at Justworks </li>
 	<li>👀 Kotlin, Dart and Crystal on my radar. </li>
@@ -76,13 +77,14 @@ A computer science student and software engineer specializing in web APIs and fu
 </div>
 
 <h2>📊  &nbsp; Stats</h2>
+<div align=center>
 <div align="center">
 	<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy-downsized.gif" height="200"/>
 </div>
 	<img src="https://github-readme-stats.vercel.app/api?username=adempus&theme=nord&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=true">
 	<br/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adempus&layout=compact&theme=nord&langs_count=7&hide_border=true">
-
+</div>
 <h2>📬 &nbsp; Contact</h2>
 <div align="center">
 	<a href="mailto:jmorin722@gmail.com"/>
