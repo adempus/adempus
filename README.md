@@ -1,6 +1,7 @@
 
 
 
+
 <div align="center">
 <h1>👋🏽🌎 <br>I'm Jeff!</h1>
 </div>
@@ -19,7 +20,7 @@ A computer science student and software engineer specializing in web APIs and fu
 <div align="center">
 	<img src="https://media.giphy.com/media/hroRTX5odHrMm5IoCF/giphy.gif" height="200"/>
 </div>
-<h2 > <img src="http://pa1.narvii.com/6304/b27d233a8d65333d56a5b0d1d044b7684dcb775e_00.gif" height="95"/>&nbsp; Languages & Frameworks &nbsp;🔤 </h2>
+<h2 > <img src="http://pa1.narvii.com/6304/b27d233a8d65333d56a5b0d1d044b7684dcb775e_00.gif" height="95"/>&nbsp; Languages, Frameworks & Libraries &nbsp;🔤 </h2>
 <div align="center">
 	<img src="https://img.shields.io/badge/Python-3776Ab?logo=Python&style=flat-square&labelColor=E0E0E0&logoColor=3776Ab" alt="python" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=Javascript&style=flat-square&labelColor=555555&logoColor=F7DF1E" alt="Javascript" height="23">&nbsp;
@@ -33,7 +34,9 @@ A computer science student and software engineer specializing in web APIs and fu
 	<img src="https://img.shields.io/badge/FastAPI-009688?logo=FastAPI&style=flat-square&labelColor=2D303E" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/Flask-000000?logo=Flask&style=flat-square&labelColor=E0E0E0&logoColor=000000" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/Laravel-FF2D20?logo=Laravel&style=flat-square&labelColor=E0E0E0&logoColor=FF2D20" height="23">&nbsp;
+	<br><br>
 	<img src="https://img.shields.io/badge/Arduino-00979D?logo=Arduino&style=flat-square&labelColor=E0E0E0&logoColor=00979D" height="23">&nbsp;
+	<img src="https://img.shields.io/badge/Pandas-150458?logo=Pandas&style=flat-square&labelColor=E0E0E0&logoColor=150458" height="23">&nbsp;
 </div>
 
 <h2><img src="https://64.media.tumblr.com/13b83b0614984c68bf7ded0f046342b9/dbcae345f5bcb661-b1/s640x960/b397f4a296851b10783710aeea33ee9104676cc7.gif" height="95"/>&nbsp; Databases &nbsp;💾</h2>
@@ -44,7 +47,6 @@ A computer science student and software engineer specializing in web APIs and fu
 	<img src="https://img.shields.io/badge/SQLite-6BC3E2?logo=SQLite&style=flat-square&labelColor=555555&logoColor=6BC3E2" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&style=flat-square&labelColor=E0E0E0&logoColor=E10098" height="23">&nbsp;
 	<br>
-	
 </div>
 
 <h2><img src="https://64.media.tumblr.com/59168f41444bd6007143e1fd8697685d/tumblr_pg9n5mB6Dr1sgge6vo1_640.gif" height="95"/>&nbsp; Tools &nbsp;🧰</h2>
@@ -56,6 +58,7 @@ A computer science student and software engineer specializing in web APIs and fu
 	<img src="https://img.shields.io/badge/AWS-FF9900?logo=Amazon%20aws&style=flat-square&labelColor=E0E0E0&logoColor=FF9900" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&style=flat-square&labelColor=e0e0e0&logoColor=2496ED" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/Jetbrains-2D303E?logo=jetbrains&style=flat-square&labelColor=E0E0E0&logoColor=2D303E" height="23">&nbsp;
+			<img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&style=flat-square&labelColor=E0E0E0&logoColor=F37626" height="23">&nbsp;
 	<br><br>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual%20studio%20code&style=flat-square&labelColor=E0E0E0&logoColor=007ACC" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android%20studio&style=flat-square&labelColor=555555&logoColor=3DDC84" height="23">&nbsp;
