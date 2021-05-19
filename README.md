@@ -1,7 +1,4 @@
 
-
-
-
 <div align="center">
 <h1>👋🏽🌎 <br>I'm Jeff!</h1>
 </div>
@@ -37,6 +34,7 @@ A computer science student at CUNY Brooklyn College, and software engineer speci
 	<br><br>
 	<img src="https://img.shields.io/badge/Arduino-00979D?logo=Arduino&style=flat-square&labelColor=E0E0E0&logoColor=00979D" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/Pandas-150458?logo=Pandas&style=flat-square&labelColor=E0E0E0&logoColor=150458" height="23">&nbsp;
+		<img src="https://img.shields.io/badge/Pusher-300D4F?logo=Pusher&style=flat-square&labelColor=E0E0E0&logoColor=300D4F" height="23">&nbsp;
 </div>
 
 <h2><img src="https://64.media.tumblr.com/13b83b0614984c68bf7ded0f046342b9/dbcae345f5bcb661-b1/s640x960/b397f4a296851b10783710aeea33ee9104676cc7.gif" height="95"/>&nbsp; Databases &nbsp;💾</h2>
@@ -93,13 +91,10 @@ A computer science student at CUNY Brooklyn College, and software engineer speci
 </div>
 <h2 align="center">📬 &nbsp;Contact</h2>
 <div align="center">
-	<a href="https://www.linkedin.com/in/jeff-morin-88022a51"/>
-	<img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&style=flat-square&labelColor=0A66C2&logoColor=FFFFFF" alt="python" height="23"/>
-</a>
-	<a href="mailto:jmorin722@gmail.com"/>
-	<img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&style=flat-square&labelColor=EA4335&logoColor=FFFFFF" alt="python" height="23"/>
-	</a>
 <a href="mailto:jmorin722@protonmail.com"/>
 	<img src="https://img.shields.io/badge/Protonmail-8B89CC?logo=protonmail&style=flat-square&labelColor=8B89CC&logoColor=FFFFFF" alt="python" height="23"/>
 	</a>
+		<a href="https://matrix.to/#/@jmorin722:matrix.org"/>
+	<img src="https://img.shields.io/badge/Element-0DBD8B?logo=element&style=flat-square&labelColor=0DBD8B&logoColor=FFFFFF" alt="python" height="23"/>
+</a>
 </div>
