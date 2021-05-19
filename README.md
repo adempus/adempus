@@ -1,4 +1,3 @@
-
 <div align="center">
 <h1>👋🏽🌎 <br>I'm Jeff!</h1>
 </div>
@@ -27,7 +26,7 @@ A computer science student at CUNY Brooklyn College, and software engineer speci
 	<img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&style=flat-square&labelColor=E0E0E0&logoColor=E34F26" alt="HTML5" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&style=flat-square&labelColor=E0E0E0&logoColor=1572B6" alt="CSS3" height="23">&nbsp;
 	<br><br>
-	<img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&style=flat-square&labelColor=314A5D" alt="Vue.js" height="23">&nbsp;
+	<img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue-dot-js&style=flat-square&labelColor=314A5D" alt="Vue.js" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/FastAPI-009688?logo=FastAPI&style=flat-square&labelColor=2D303E" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/Flask-000000?logo=Flask&style=flat-square&labelColor=E0E0E0&logoColor=000000" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/Laravel-FF2D20?logo=Laravel&style=flat-square&labelColor=E0E0E0&logoColor=FF2D20" height="23">&nbsp;
