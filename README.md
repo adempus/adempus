@@ -13,9 +13,6 @@ A computer science student at CUNY Brooklyn College, and software engineer speci
 	<li>❤️ Gaming, astronomy, aviation, martial arts, philosophy, urban spelunking, <br>camping & paintball are some of my interest/hobbies.</li>
 </ul>
 <br>
-<div align="center">
-	<img src="https://media.giphy.com/media/hroRTX5odHrMm5IoCF/giphy.gif" height="200"/>
-</div>
 <h2 > <img src="http://pa1.narvii.com/6304/b27d233a8d65333d56a5b0d1d044b7684dcb775e_00.gif" height="95"/>&nbsp; Languages, Frameworks & Libraries &nbsp;🔤 </h2>
 <div align="center">
 	<img src="https://img.shields.io/badge/Python-3776Ab?logo=Python&style=flat-square&labelColor=E0E0E0&logoColor=3776Ab" alt="python" height="23">&nbsp;
