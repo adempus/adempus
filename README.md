@@ -7,8 +7,8 @@ A computer science senior undergrad at CUNY Brooklyn College, and software engin
 <br>
 <ul align="left">
 	<li>🏢 Interning at Justworks </li>
-	<li>👀 Rust, Dart and Crystal on my radar. </li>
 	<li>👨🏾‍💻 Currently learning Ruby.</li>
+	<li>👀 Rust, Dart and Crystal on my radar. </li>
 	<li> 🤜🏽🤛🏻 Looking to collaborate on anything full stack web, mobile or desktop. </li>
 	<li>❤️ Gaming, astronomy, aviation, martial arts, philosophy, urban spelunking, <br>camping & paintball are some of my interest/hobbies.</li>
 </ul>
