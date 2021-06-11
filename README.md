@@ -2,13 +2,13 @@
 <h1>👋🏽🌎 <br>I'm Jeff!</h1>
 </div>
 <div align="left">
-A computer science student at CUNY Brooklyn College, and software engineer specializing in web APIs and full-stack app development. Also an embedded hobbyist with interests in environmental tech, IoT, and data engineering. Looking to learn and expand my skillset across various domains.
+A computer science senior undergrad at CUNY Brooklyn College, and software engineer specializing in web APIs and full-stack app development. Also an embedded hobbyist with interests in environmental tech, IoT, and data engineering. Looking to learn and expand my skillset across various domains.
 </div>
 <br>
 <ul align="left">
-	<li>🏢 Currently at Justworks </li>
+	<li>🏢 Interning at Justworks </li>
 	<li>👀 Rust, Dart and Crystal on my radar. </li>
-	<li>👨🏾‍💻 Working on a REST API for World Chase Tag! (Contact to contribute!!!)</li>
+	<li>👨🏾‍💻 Currently learning Ruby.</li>
 	<li> 🤜🏽🤛🏻 Looking to collaborate on anything full stack web, mobile or desktop. </li>
 	<li>❤️ Gaming, astronomy, aviation, martial arts, philosophy, urban spelunking, <br>camping & paintball are some of my interest/hobbies.</li>
 </ul>
