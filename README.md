@@ -70,7 +70,7 @@ A computer science senior undergrad at CUNY Brooklyn College, and software engin
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Ubuntu-E95420?logo=Ubuntu&style=flat-square&labelColor=E0E0E0&logoColor=E95420" height="23">&nbsp;
-	<img src="https://img.shields.io/badge/Pop!__OS-48B9C7?logo=Pop%5FOS&style=flat-square&labelColor=E0E0E0&logoColor=48B9C7" height="23">&nbsp;
+	<img src="https://img.shields.io/badge/Pop!__OS-48B9C7?logo=Pop!_OS&style=flat-square&labelColor=E0E0E0&logoColor=48B9C7" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/Windows-0078D6?logo=Windows&style=flat-square&labelColor=E0E0E0&logoColor=0078D6" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/Raspberry Pi-A22846?logo=raspberry-pi&style=flat-square&labelColor=E0E0E0&logoColor=A22846" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/Android-3DDC84?logo=Android&style=flat-square&labelColor=555555&logoColor=3DDC84" height="23">&nbsp;
