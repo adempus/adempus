@@ -1,8 +1,8 @@
 <div align="center">
-<h1>👋🏽🌎 <br>I'm Jeff!</h1>
+<h1>👋🏾🌎 <br>I'm Jeff!</h1>
 </div>
 <div align="left">
-A computer science senior undergrad at CUNY Brooklyn College, and software engineer specializing in web APIs and full-stack app development. Also an embedded hobbyist with interests in environmental tech, IoT, and data engineering. Looking to learn and expand my skillset across various domains.
+A software engineer specializing in web APIs and full-stack app development. Also an embedded hobbyist with interests in environmental tech, IoT, and data engineering. Looking to learn and expand my skillset across various domains.
 </div>
 <br>
 <ul align="left">
