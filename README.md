@@ -6,7 +6,7 @@ A software engineer specializing in web APIs and full-stack app development. Als
 </div>
 <br>
 <ul align="left">
-	<li>👨🏾‍💻 Currently working on building a game.</li>
+	<li>👨🏾‍💻 Currently working building a game.</li>
 	<li>👀 Rust and Crystal on my radar. </li>
 	<li> 🤜🏽🤛🏻 Looking to collaborate on anything full stack web, mobile or desktop. </li>
 	<li>❤️ Gaming, astronomy, aviation, martial arts</li>
