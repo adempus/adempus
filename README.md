@@ -6,9 +6,9 @@ A software engineer specializing in web APIs and full-stack app development. Als
 </div>
 <br>
 <ul align="left">
-	<li>🏢 Interning at Justworks </li>
-	<li>👨🏾‍💻 Currently learning Ruby.</li>
-	<li>👀 Rust, Dart and Crystal on my radar. </li>
+	<li>🏢 Justworks </li>
+	<li>👨🏾‍💻 Currently working on building a game.</li>
+	<li>👀 Rust and Crystal on my radar. </li>
 	<li> 🤜🏽🤛🏻 Looking to collaborate on anything full stack web, mobile or desktop. </li>
 	<li>❤️ Gaming, astronomy, aviation, martial arts</li>
 </ul>
