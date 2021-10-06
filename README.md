@@ -10,9 +10,9 @@ A software engineer specializing in web APIs and full-stack app development. Als
 <div align="center">
 	<img src="https://img.shields.io/badge/Python-3776Ab?logo=Python&style=flat-square&labelColor=E0E0E0&logoColor=3776Ab" alt="python" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=Javascript&style=flat-square&labelColor=555555&logoColor=F7DF1E" alt="Javascript" height="23">&nbsp;
+	<img src="https://img.shields.io/badge/Ruby-CC342D?logo=Ruby&style=flat-square&labelColor=E0E0E0&logoColor=CC342D" alt="Ruby" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/Java-EE1B2D?logo=Java&style=flat-square&logoColor=EE1B2D&labelColor=E0E0E0" alt="Java" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&style=flat-square&logoColor=00599C&labelColor=E0E0E0" alt="C++" height="23">&nbsp;
-	<img src="https://img.shields.io/badge/Ruby-CC342D?logo=Ruby&style=flat-square&labelColor=E0E0E0&logoColor=CC342D" alt="Ruby" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&style=flat-square&labelColor=E0E0E0&logoColor=E34F26" alt="HTML5" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&style=flat-square&labelColor=E0E0E0&logoColor=1572B6" alt="CSS3" height="23">&nbsp;
 	<br><br>
