@@ -23,7 +23,6 @@ A software engineer specializing in web APIs and full-stack app development. Als
 	<br><br>
 	<img src="https://img.shields.io/badge/Arduino-00979D?logo=Arduino&style=flat-square&labelColor=E0E0E0&logoColor=00979D" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/Pandas-150458?logo=Pandas&style=flat-square&labelColor=E0E0E0&logoColor=150458" height="23">&nbsp;
-		<img src="https://img.shields.io/badge/Pusher-300D4F?logo=Pusher&style=flat-square&labelColor=E0E0E0&logoColor=300D4F" height="23">&nbsp;
 </div>
 
 <h2><img src="https://64.media.tumblr.com/13b83b0614984c68bf7ded0f046342b9/dbcae345f5bcb661-b1/s640x960/b397f4a296851b10783710aeea33ee9104676cc7.gif" height="95"/>&nbsp; Databases &nbsp;💾</h2>
@@ -48,6 +47,7 @@ A software engineer specializing in web APIs and full-stack app development. Als
 	<br><br>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual%20studio%20code&style=flat-square&labelColor=E0E0E0&logoColor=007ACC" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android%20studio&style=flat-square&labelColor=555555&logoColor=3DDC84" height="23">&nbsp;
+	<img src="https://img.shields.io/badge/Pusher-300D4F?logo=Pusher&style=flat-square&labelColor=E0E0E0&logoColor=300D4F" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&style=flat-square&labelColor=555555&logoColor=FF6C37" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/Notion-2D303E?logo=Notion&style=flat-square&labelColor=E0E0E0&logoColor=2D303E" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&style=flat-square&labelColor=E0E0E0&logoColor=F24E1E" height="23">&nbsp;
