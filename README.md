@@ -5,12 +5,6 @@
 A software engineer specializing in web APIs and full-stack app development. Also an embedded hobbyist with interests in environmental tech, IoT, and data engineering. Looking to learn and expand my skillset across various domains.
 </div>
 <br>
-<ul align="left">
-	<li>👨🏾‍💻 Currently working building a game.</li>
-	<li>👀 Rust and Crystal on my radar. </li>
-	<li> 🤜🏽🤛🏻 Looking to collaborate on anything full stack web, mobile or desktop. </li>
-	<li>❤️ Gaming, astronomy, aviation, martial arts</li>
-</ul>
 <br>
 <h2 > <img src="http://pa1.narvii.com/6304/b27d233a8d65333d56a5b0d1d044b7684dcb775e_00.gif" height="95"/>&nbsp; Languages, Frameworks & Libraries &nbsp;🔤 </h2>
 <div align="center">
