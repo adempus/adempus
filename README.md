@@ -1,7 +1,7 @@
 <div align="center">
 <h1>👋🏾🌎 <br>I'm Jeff!</h1>
 </div>
-<div align="left">
+<div align="center">
 A software engineer specializing in web APIs and full-stack app development. Also an embedded hobbyist with interests in environmental tech, IoT, and data engineering. Looking to learn and expand my skillset across various domains.
 </div>
 <br>
@@ -12,7 +12,7 @@ A software engineer specializing in web APIs and full-stack app development. Als
 	<img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=Javascript&style=flat-square&labelColor=555555&logoColor=F7DF1E" alt="Javascript" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/Java-EE1B2D?logo=Java&style=flat-square&logoColor=EE1B2D&labelColor=E0E0E0" alt="Java" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&style=flat-square&logoColor=00599C&labelColor=E0E0E0" alt="C++" height="23">&nbsp;
-	<img src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&style=flat-square&labelColor=E0E0E0&logoColor=777BB4" alt="PHP" height="23">&nbsp;
+	<img src="https://img.shields.io/badge/Ruby-CC342D?logo=Ruby&style=flat-square&labelColor=E0E0E0&logoColor=CC342D" alt="Ruby" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&style=flat-square&labelColor=E0E0E0&logoColor=E34F26" alt="HTML5" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&style=flat-square&labelColor=E0E0E0&logoColor=1572B6" alt="CSS3" height="23">&nbsp;
 	<br><br>
@@ -41,7 +41,6 @@ A software engineer specializing in web APIs and full-stack app development. Als
 <div align="center">
 	<img src="https://img.shields.io/badge/Git-F05032?logo=Git&style=flat-square&labelColor=E0E0E0&logoColor=F05032" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/GitHub-2D303E?logo=Github&style=flat-square&labelColor=E0E0E0&logoColor=2D303E" height="23">&nbsp;
-		<img src="https://img.shields.io/badge/Gitpod-FFAE33?logo=Gitpod&style=flat-square&labelColor=E0E0E0&logoColor=FFAE33" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/AWS-FF9900?logo=Amazon%20aws&style=flat-square&labelColor=E0E0E0&logoColor=FF9900" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&style=flat-square&labelColor=e0e0e0&logoColor=2496ED" height="23">&nbsp;
 	<img src="https://img.shields.io/badge/Jetbrains-2D303E?logo=jetbrains&style=flat-square&labelColor=E0E0E0&logoColor=2D303E" height="23">&nbsp;
