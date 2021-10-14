@@ -71,9 +71,6 @@ A software engineer specializing in web APIs and full-stack app development. Als
 <br><br>
 <h2 align="center">Stats &nbsp;📊</h2>
 <div align=center>
-<div align="center">
-	<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy-downsized.gif" height="200"/>
-</div>
 	<img src="https://github-readme-stats.vercel.app/api?username=adempus&theme=nord&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=true">
 	<br/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adempus&layout=compact&theme=nord&langs_count=7&hide_border=true">
